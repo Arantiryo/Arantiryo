@@ -1,6 +1,4 @@
-👋 Hi, I’m Ivan Tsenilov, a Front-end Software Engineer currently working at Moscow Industrial Bank.
-
-I’m interested in all things that relate to web development and computer science. I'm currently learning Next.js and and expanding my knowledge about React in general.
+👋 Hi, I’m Ivan Tsenilov, a Front-end Software Engineer interested in all things that relate to web development and computer science. I'm currently learning Next.js and and expanding my knowledge about React in general.
 
 Some of the pet projects I created in my spare time or during various courses organized by [the Rolling Scopes School](https://rs.school/):
 - [Louvre website](https://rolling-scopes-school.github.io/arantiryo-JSFE2021Q3/museum-dom/)
